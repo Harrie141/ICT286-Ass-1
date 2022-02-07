@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(105, 148, 148);
+}
+button{
+    color: rgb(0, 2, 1);
+    border-color: blue;
+    height: 25px;
+    width: 150px;
+}
+p{
+    font-size: xx-large;
+}
+#day{
+    color: red;
+}
+#time{
+    color: brown;
+}
+#date{
+    color: green;
+}
+#month{
+    color: yellow;
+}
+#year{
+    color: blue;
+}
+a{
+    color: beige;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: wheat;
+}
+hr{
+    background-color:antiquewhite;
+    width: 65%;
+    height: 2px;
+}
+label{
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
